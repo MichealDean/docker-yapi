@@ -12,7 +12,7 @@ YApi:  https://github.com/YMFE/yapi/releases
 
 初始化并启动
 ```
-git clone https://github.com/Ryan-Miao/docker-yapi.git
+git clone https://github.com/MichealDean/docker-yapi.git
 cd docker-yapi
 bash build.sh 1.5.10
 bash start.sh  init-network
