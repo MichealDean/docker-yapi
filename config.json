@@ -1,22 +1,22 @@
 {
    "port": "3001",
-   "adminAccount": "ryan.miao@demo.com",
+   "adminAccount": "wangxh@mail.jj.com",
    "db": {
       "servername": "172.18.0.2",
       "DATABASE": "yapi",
       "port": "27017",
-      "user": "yapi",
-      "pass": "yapi123456",
+      "user": "jj_yapi",
+      "pass": "jj_yapi123456",
       "authSource":"admin"
    },
    "mail": {
       "enable": false,
-      "host": "smtp.163.com",
+      "host": "smtp.mail.jj.cn",
       "port": 465,
-      "from": "***@163.com",
+      "from": "wangxh@mail.jj.com",
       "auth": {
-         "user": "***@163.com",
-         "pass": "*****"
+         "user": "wangxh@mail.jj.com",
+         "pass": ""
       }
    }
 }
